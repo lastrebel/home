@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<?php
+
 
 /*toto ti zaruci, ze ostanes na tej istej stranke*/
 
@@ -11,3 +12,5 @@
 </html>
 
 
+
+?>
